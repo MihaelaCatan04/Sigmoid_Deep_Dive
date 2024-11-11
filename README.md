@@ -6,9 +6,15 @@ This repository contains coursework and assignments completed as part of the **S
 
 The **Sigmoid Deep Dive** course offers comprehensive training on a variety of deep learning topics, blending theoretical insights with practical implementation. The course covers essential techniques and concepts that are foundational to modern machine learning applications.
 
-## Contributors
+## Repository Structure
+
+The repository is organized by lecture, with each folder corresponding to a specific lecture in the course. Within each lecture folder, you will find:
+
+- Jupyter notebooks containing in-class examples and code demonstrations covered during the lecture.
+- Jupyter notebooks with assignments and exercises designed to reinforce the concepts discussed in the lecture.
+
 
 ## Contributors
 
 - **Mihaela Catan** - Machine Learning Engineer, Sigmoid
-- **Vladimir Stojoc** - instructor, CEO, Sigmoid
+- **Vladimir Stojoc** - Instructor, CEO, Sigmoid
